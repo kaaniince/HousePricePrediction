@@ -37,10 +37,6 @@ class HousePricePrediction():
         plt.show()
         sns.pairplot(self.data,diag_kind="kde",markers="+")
         plt.show()
-        for c in self.data.columns:
-            plt.figure()
-            sns.boxplot(x=c,data=self.data,orient="v")
-            plt.show()
     def localOutlier(self):
         self.clf=LocalOutlierFactor(n_neighbors=20,contamination=0.1)
         self.clf.fit_predict(self.data)
