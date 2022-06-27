@@ -10,4 +10,6 @@ Outlier olan değerler için bir method yazılmıştır.
 Linear, Lasso, Ridge, ElasticNet Regression ve XGBoost algoritmaları kullanıldı. En sonunda en iyi iki modelin averagingmodelsi alındı. 
 
 ![image](https://user-images.githubusercontent.com/57836014/175998537-38ebb2dd-84e2-4667-92d1-595bc70a56b4.png)
+![image](https://user-images.githubusercontent.com/57836014/175999011-4189203e-83f0-4d07-9af7-13d7b549f073.png)
+
 
