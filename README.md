@@ -1,4 +1,4 @@
-#House Price Prediction
+# House Price Prediction
 
 Kaggle'dan alınan https://www.kaggle.com/datasets/shree1992/housedata dataseti için tahmin modeli hazırlanmıştır.
 
